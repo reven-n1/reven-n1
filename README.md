@@ -32,19 +32,20 @@
     - English(b2)
 
 
-- <**<h4>Career Objective:</h4>**
+- **<h4>Career Objective:</h4>**
 
-    - Senior python developer.
+    - Senior python developer
+
+
+- **<h4>Working on:</h4>**
+
+    - [Discord Bot(python)](https://github.com/reven-n1/DiscordBot)
   
 </details>
 
 ### Languages and Tools
 
-<<<<<<< HEAD
-![Python][1]   ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)  ![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow) ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)    ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)   ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)</a> <a href="" style="pointer-events: none">![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)</a>
-=======
-<a style="pointer-events:none">![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)</a> <a href="" style="pointer-events: none">![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)</a> <a href="" style="pointer-events: none">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)</a> <a href="" style="pointer-events: none">![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow)</a> <a href="" style="pointer-events: none">![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)</a> <a href="" style="pointer-events: none">![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)</a> <a href="" style="pointer-events: none">![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)</a> <a href="" style="pointer-events: none">![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)</a>
->>>>>>> 33e09b2cf58aea14d83a926844db817282556820
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)   ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)  ![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow) ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)    ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)   ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)</a> <a href="" style="pointer-events: none">![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)</a>
 
 ### Other
 
@@ -58,6 +59,3 @@
 ### Some GitHub Profile stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reven-n1&count_private=true&show_icons=true&border_radius=10&hide=prs,issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[1]: (https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
