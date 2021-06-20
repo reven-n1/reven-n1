@@ -1,6 +1,10 @@
 [![Header](https://github.com/reven-n1/reven-n1/blob/main/assets/From_BuNtaRT_to_reven_n1_with_love1.png)](https://github.com/reven-n1)
 
+</br>
+</br>
+
  ## Some information about me
+
 <details><summary>Show info</summary>
     
 - **<h4>Education:</h4>**
