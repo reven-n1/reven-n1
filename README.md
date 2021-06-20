@@ -6,25 +6,42 @@
     - <b>2016-2020 (specialized secondary) </b> Peter the Great St. Petersburg Polytechnic University, <b>direction</b> - programming in computer systems, <b>specialty</b> - technician-programmer.
     - <b>2020-2025 (current)</b> SUAI, <b>direction</b> - informatics and computer engineering.
 
+- <h4><b>Personal qualities:</b></h4>
+
+    - Calmness
+    - High responsibility
+    - Attentiveness
+    - Discipline
+    - Analytical mind
+    - Learning propensity
+
+
 - <h4><b>Hobbies:</b></h4>
 
-    - dd
-    - dd1
+    - I like to go out with friends
+    - Programming
+    - Biking
+    - Reading books
 
-- <h4><b>Hobbies:</b></h4>
 
-    - dd
-    - dd1
+- <h4><b>Languages:</b></h4>
+
+    - Russion(native)
+    - English(b2)
+
+
+- <h4><b>Career Objective:</b></h4>
+
+    - Senior python developer.
   
 
 ### Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)   ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)  ![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow) ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)    ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)  ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm) 
+<a href="" style="pointer-events: none">![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)</a> <a href="" style="pointer-events: none">![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)</a> <a href="" style="pointer-events: none">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)</a> <a href="" style="pointer-events: none">![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow)</a> <a href="" style="pointer-events: none">![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)</a> <a href="" style="pointer-events: none">![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)</a> <a href="" style="pointer-events: none">![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)</a> <a href="" style="pointer-events: none">![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)</a>
 
+### Other
 
-### Languages and Tools
-
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)   ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)  ![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow) ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html) ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css)    ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)  ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
+<a href="" style="pointer-events: none">![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)</a> <a href="" style="pointer-events: none">![Windows](https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows)</a> <a href="" style="pointer-events: none">![Microsoft Office](https://img.shields.io/badge/-MicrosoftOffice-black?style=for-the-badge&logo=microsoftoffice&logoColor=red)</a> <a href="" style="pointer-events: none">![AutoCad](https://img.shields.io/badge/-AutoCad-black?style=for-the-badge&logo=autodesk&logoColor=red)</a>
 
 ### My contacts
 
