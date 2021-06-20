@@ -5,6 +5,11 @@
 
     - <b>2016-2020 (specialized secondary) </b> Peter the Great St. Petersburg Polytechnic University, <b>direction</b> - programming in computer systems, <b>specialty</b> - technician-programmer.
     - <b>2020-2025 (current)</b> SUAI, <b>direction</b> - informatics and computer engineering.
+
+- <h4><b>Hobbies:</b></h4>
+
+    - dd
+    - dd1
  
 
 ### Languages anf Tools
@@ -18,4 +23,4 @@
 
 ### Some GitHub Profile stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reven-n1&count_private=true&show_icons=true&border_radius=10&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reven-n1&count_private=true&show_icons=true&border_radius=10&hide=prs,issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
