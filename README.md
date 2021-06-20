@@ -32,7 +32,7 @@
 
 - **<h4>Languages:</h4>**
 
-    - Russion(native)
+    - Russian(native)
     - English(b2)
 
 
