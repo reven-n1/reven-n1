@@ -41,7 +41,7 @@
     - Senior python developer
 
 
-- **<h4>Working on:</h4>**
+- **<h4>Working on projects:</h4>**
 
     - [Discord Bot(python)](https://github.com/reven-n1/DiscordBot)
   
