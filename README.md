@@ -25,7 +25,6 @@
 - **<h4>Hobbies:</h4>**
 
     - I like to go out with friends
-    - Programming
     - Biking
     - Reading books
 
