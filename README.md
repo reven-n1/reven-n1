@@ -48,7 +48,7 @@
 
 ### Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)   ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)  ![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow) ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)    ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)   ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)</a> <a href="" style="pointer-events: none">![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)</a>
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](#)   ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=yellow)  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=red)  ![Sql](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor=yellow) ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)    ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)   ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)</a> <a href="" style="pointer-events: none">![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)</a>
 
 ### Other
 
