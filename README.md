@@ -1,7 +1,3 @@
-
-</br>
-</br>
-
  ## Some information about me
 
 <details><summary>Show info</summary>
