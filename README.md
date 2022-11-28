@@ -21,12 +21,6 @@
     - Learning propensity
 
 
-- **<h4>Hobbies:</h4>**
-
-    - I like to go out with friends
-    - Biking
-    - Reading books
-
 
 - **<h4>Languages:</h4>**
 
